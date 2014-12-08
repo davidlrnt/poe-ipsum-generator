@@ -1,0 +1,68 @@
+p {
+	color: black;
+	font-family: Verdana;
+	position: relative;
+	margin: 25px;
+	font-size: 9pt;
+	
+
+}
+#ipsum {
+	margin-top: 50px;
+	display: none;
+	border: 2px solid black;
+	background-color: white;
+	width: 90%;
+	height: auto;
+	border-radius: 10px;
+	box-shadow: 10px 10px 25px #888888;
+	margin-bottom: 100px;
+	margin-left: auto ;
+    margin-right: auto ;
+
+}
+
+
+#generate, #tool, #nPara{
+	font-size: 15px;
+	border-radius: 10px;
+	font-family: Verdana;
+	color: #4F4E4C;
+
+
+}
+#tool {
+	margin-left: 50px;
+}
+#nPara{
+	width: 50px;
+	text-align: center;
+}
+body {
+	background-color: #FAF7EB;
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0;
+    margin: 0;
+}
+h2 {
+	margin-left: 55px;
+	font-family: Verdana;
+	color: #4F4E4C;
+}
+#footer {
+   float: bottom;
+   position:fixed;
+   bottom:0px;
+  
+   width:100%;
+   height:20px;
+   background:#9C9B97;
+   color: white;
+   font-family: Verdana;
+   text-align: center;
+   font-size: 9pt;
+}
